@@ -19,7 +19,7 @@ O projeto foi desenvolvido com objetivo de praticar conceitos de programação, 
 
 - Calcular o valor total das compras, caso essa funcionalidade esteja implementada.
 
-###  Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Python: linguagem de programação utilizada no desenvolvimento.
 
@@ -29,7 +29,7 @@ O projeto foi desenvolvido com objetivo de praticar conceitos de programação, 
 
 - Pandas: organização e exibição dos dados em tabelas, quando utilizado.
 
-#### Estrutura do projeto
+## Estrutura do projeto
 
 App Llista Compra/
 
@@ -47,7 +47,7 @@ App Llista Compra/
 
 └── banco_compra.db
 
-##### Descrição dos arquivos
+## Descrição dos arquivos
 
 - interface.py: interface do aplicativo desenvolvida com Streamlit.
 
@@ -63,7 +63,7 @@ App Llista Compra/
 
 - banco_compra.db: banco de dados SQLite utilizado para armazenar os produtos.
 
-###### Como executar o projeto
+## Como executar o projeto
 
 1. Pré-requisitos
 
@@ -89,7 +89,7 @@ App Llista Compra/
    
 Após a inicialização, o Streamlit exibirá o endereço local para acessar o aplicativo pelo navegador.
 
-####### Aprendizados
+##  Aprendizados
 
 - Durante o desenvolvimento deste projeto, pratiquei:
 
@@ -105,7 +105,7 @@ Após a inicialização, o Streamlit exibirá o endereço local para acessar o a
 
 - Organização de dados com Pandas.
 
-######## Autor
+## Autor
 
 - Desenvolvido por Carlos Silva Souza.
 
