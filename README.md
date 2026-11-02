@@ -1,5 +1,5 @@
 # Aplicativo de Lista de Compra
-Aplicação desenvolvida em Python, Streamlit para interface e SQLite para armazenamento dos dados, para gerenciar uma lista de compras, permitindo ao usuário cadatsrar,consultar, atualizar e excluir produtos, preços e quantidade, além de visualizar as informações em uma interface simples e intuitiva.
+Aplicação desenvolvida em Python, Streamlit para interface e SQLite para armazenamento dos dados, para gerenciar uma lista de compras, permitindo ao usuário cadastrar,consultar, atualizar e excluir produtos, preços e quantidade, além de visualizar as informações em uma interface simples e intuitiva.
 
 O projeto foi desenvolvido com objetivo de praticar conceitos de programação, manipulação de banco de dados.
 
